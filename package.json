@@ -1,0 +1,20 @@
+{
+  "name": "live-draw-hk-tercepat",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Live Draw HK merupakan situs khusus untuk menampilkan siaran langsung keluaran togel Hongkong yang sudah terhubung secara resmi.",
+  "keywords": [
+    "live draw hk",
+    "live draw hk tercepat",
+    "live draw hk 6d",
+    "live draw hk hari ini",
+    "live draw hk wla",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/heytayo99/live-draw-hk-tercepat",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
