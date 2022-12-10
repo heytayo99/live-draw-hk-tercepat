@@ -1,7 +1,7 @@
 # Live Draw HK
-# [LOGIN TOGEL](fixibet.net/?ref=seowin)
-# [DAFTAR TOGEL](fixibet.net/Daftar.aspx?ref=seowin)
-# [LIVE RESULT TOGEL](fixibet.net/?ref=seowin)
+# [LOGIN TOGEL](https://fixibet.net/?ref=seowin)
+# [DAFTAR TOGEL](https://fixibet.net/Daftar.aspx?ref=seowin)
+# [LIVE RESULT TOGEL](https://fixibet.net/?ref=seowin)
 
 Live Draw HK merupakan situs khusus untuk menampilkan siaran langsung keluaran togel Hongkong yang sudah terhubung secara resmi.
 
